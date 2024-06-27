@@ -2,7 +2,7 @@
 <p>- 👀 I’m interested in writing codes, trying out new features and developing new skills. </br>
 - 🌱 I’m currently learning C++(DSA)</br>
 I can work with Python, HTML, CSS, Javascript and have some experience with frameworks like Node.js, React.js, Express, mySQL </br>
-- 📫 You can reach me through <a href= "kashyapvarun2003@gmail.com">Gmail</a> </br>
+- 📫 You can reach me through <a href= "kashyapvarun2003@gmail.com">Gmail</a>, <a href="https://www.linkedin.com/in/varun-kashyap-18b7aa258/">LinkedIn</a> </br>
 - ⚡ Fun fact: I also like animating and doing 3d stuff.
 </p>
 <!---
